@@ -1,4 +1,4 @@
-# 60 Days Of Learning Challenge 🚀👊
+# 60 Days Of Learning Challenge [Leapfrog Technology] 🚀👊
 
 Welcome to my 60 Coding Challenge!  
 For the next 60 days, I’ll be dedicating time each Days to coding, sharpening my programming skills, and tracking my journey here.
